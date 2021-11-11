@@ -1,0 +1,18 @@
+2021-11-11 21:39:16,776 [1] INFO  SeleniumTest.Program [(null)] - Info logging
+2021-11-11 21:39:16,874 [1] FATAL SeleniumTest.Program [(null)] - Info Fatal
+2021-11-11 21:39:16,875 [1] WARN  SeleniumTest.Program [(null)] - Info Warning
+2021-11-11 21:39:16,883 [1] ERROR SeleniumTest.Program [(null)] - This is my error
+System.Exception: Exception!
+   konum: SeleniumTest.Program.Main(String[] args) C:\Users\merve\source\repos\SeleniumTest\SeleniumTest\Program.cs içinde: satýr 26
+2021-11-11 21:39:58,494 [1] INFO  SeleniumTest.Program [(null)] - Info logging
+2021-11-11 21:39:58,549 [1] FATAL SeleniumTest.Program [(null)] - Info Fatal
+2021-11-11 21:39:58,550 [1] WARN  SeleniumTest.Program [(null)] - Info Warning
+2021-11-11 21:39:58,557 [1] ERROR SeleniumTest.Program [(null)] - This is my error
+System.Exception: Exception!
+   konum: SeleniumTest.Program.Main(String[] args) C:\Users\merve\source\repos\SeleniumTest\SeleniumTest\Program.cs içinde: satýr 26
+2021-11-11 21:40:59,457 [1] INFO  SeleniumTest.Program [(null)] - Info logging
+2021-11-11 21:40:59,513 [1] FATAL SeleniumTest.Program [(null)] - Info Fatal
+2021-11-11 21:40:59,514 [1] WARN  SeleniumTest.Program [(null)] - Info Warning
+2021-11-11 21:40:59,521 [1] ERROR SeleniumTest.Program [(null)] - This is my error
+System.Exception: Exception!
+   konum: SeleniumTest.Program.Main(String[] args) C:\Users\merve\source\repos\SeleniumTest\SeleniumTest\Program.cs içinde: satýr 26
